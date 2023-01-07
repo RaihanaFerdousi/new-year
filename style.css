@@ -63,7 +63,8 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background-image: url("./images/watch.jpg");
+  background-image: linear-gradient(to right, rgba(255, 68, 0, 0.477), transparent),
+    url("./images/watch.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   width: 1000px;
